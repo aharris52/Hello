@@ -1,0 +1,12 @@
+{
+  "name": "aharris/328/hello",
+  "authors": [
+    {
+      "name": "Andrew Harris",
+      "email": "aharris@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
